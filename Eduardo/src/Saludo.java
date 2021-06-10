@@ -1,4 +1,6 @@
 
-public class Examen {
-
+public class Saludo {
+		public static void main(String[] args) {
+			System.out.println("hola soy edu");
+		}
 }
